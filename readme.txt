@@ -6,7 +6,7 @@ Use default installation drive C: and path
 2. vscode - https://code.visualstudio.com/download
 3. vscode go extension - in extension menu
 4. nodejs - https://nodejs.org/en/download
-5. set GOPATH path environment
+5. set GOPATH path environment - PATH %USERPROFILE%\go\bin
 6. download git
 7. google chrome
 
