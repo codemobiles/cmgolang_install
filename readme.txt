@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=9fCu6F23s-8
+
 # Install Golang on Windows 10
 --------------------------
 Use default installation drive C: and path
