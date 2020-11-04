@@ -21,3 +21,14 @@ Use default installation drive C: and path
 4. nodejs - https://nodejs.org/en/download
 5. set GOPATH path environment
 6. google chrome 
+
+
+# Soursecode Demo
+--------------------------
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello go")
+}
